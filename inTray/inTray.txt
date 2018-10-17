@@ -7,8 +7,7 @@ Empty Mail Inbox
 
 Execute use cases on device
 	- Repeat one use case multiple time and continue to break it down into smaller events, and services. Look at the data on Splunk and the device logs.
-
-	- Execute the commands specified in the tailspin-README
+	- Finish reading Apple System Log document
 		
 	- Created logs from iOS devices
 Get access to EVS from Guru
