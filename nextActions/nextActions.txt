@@ -1,33 +1,42 @@
 											Next Actions
 
 
-Getting W-2 from DSU and BestBuy to do taxes
-	•	Physical copies of W-2’s in hand
-	•	Call BESTBUY HR and visit DSU financial aid office
-
 Reading ‘Getting Things Done’
-	•	Organized document and decision-making process for all task
-	•	Write it on my action plan
+	•	GTD Methodology apart of daily routine
+	•	clone GTD GitHub at work Computer
 
 Writing songs
 	•	Lyrics rapped/sung to a beat
-	•	Grab pen & paper
+	•	Write the first verse of Faith
 
 Continuing my Capstone 
 	•	Project plan for the next 3 months set
-	•	Brainstorming what I want to develop 
+	•	Creating agenda for Julian meeting about User Research. Writing down feedback about the current Benign script recording. 
 
 Find out if I can get a repair or replacement on my Sonos 
 	•	Call to Sonos customer service describing the condition of my Sonos and how we can go about fixing it
-	•	Search online for Sonos customer service
-
+	•	Call 800-680-2345
 Schedule silence hour everyday! 
 	•	Hour a day with nothing but myself
-	•	When planning next day set BlackOut Time
+	•	Brainstorm tasks to do by myself for an hour. Then, set daily reminder to do schedule Silence Hour
 
-Finding out when my glasses warranty expires
-	•	Print out of warranty document
-	•	Calling Halpern to ask question
+Get Black Glasses Repaired
+	- Glasses not bent
+	- Setup Apple Health Benefits 
+
+Anelise Golden
+	- Understand difference between ML & DL, designing the right model(hidden layers and were to pass output to next hidden layer level), and choosing the right activation function. 
+
+	- Set meeting with Anelise 
+
+Daneen Matts
+	- Understand her role and it’s impact on IS&T. What she thinks can be improved in IS&T, and how she became effective when first starting at Apple. 
+
+	- Add outcomes to Notes agenda folder
+
+Complete End of Year Vision
+	- High-Level goals set until December of 2018
+	- Brainstorm high-level goals to have done by 2018 then decide based on S.M.A.R.T principles. 
 
 
 

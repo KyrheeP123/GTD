@@ -5,10 +5,20 @@ Planning family reunion with Alvin, Crystal, and Jamal
 	•	Make group chat with everyone to find dates
 
 Finding a mentor 
-	•	Scheduled contact times, contact information, and log of notes from previous discussions
+	•	Scheduled contact times, contact information, and log of notes from 
+previous discussions
 	•	Search for how to find a mentor
 
 Contacting my friends in college about the city idea to develop it 
 	•	Concept doc sent out to friends
 	•	Outline Black City pitch with the STAR method
 
+Daneen Matts
+	- Understand her role and it’s impact on IS&T. What she thinks can be improved in IS&T, and how she became effective when first starting at Apple. 
+
+	- Add outcomes to Notes agenda folder
+
+Anelise Golden
+	- Understand difference between ML & DL, designing the right model(hidden layers and were to pass output to next hidden layer level), and choosing the right activation function. 
+
+	- Set meeting with Anelise and add outcomes to Notes agenda folder
