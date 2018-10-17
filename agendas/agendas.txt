@@ -1,56 +1,14 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid102\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid202\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+				Agendas
 
-\f0\fs24 \cf0 Agendas\
-\
-\pard\pardeftab720\partightenfactor0
+Planning family reunion with Alvin, Crystal, and Jamal
+	•	Date and location sent to all family members
+	•	Make group chat with everyone to find dates
 
-\f1\fs22 \cf2 \expnd0\expndtw0\kerning0
-Planning family reunion with Alvin, Crystal, and Jamal\
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls1\ilvl1
-\fs26\fsmilli13200 \cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
-\fs22 \expnd0\expndtw0\kerning0
-Date and location sent to all family members\
-\ls1\ilvl1
-\fs26\fsmilli13200 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
-\fs22 \expnd0\expndtw0\kerning0
-Make group chat with everyone to find dates\
-\pard\tx720\tx1440\pardeftab720\partightenfactor0
-\cf2 \
-\pard\pardeftab720\partightenfactor0
-\cf2 Finding a mentor \
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls2\ilvl1
-\fs26\fsmilli13200 \cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
-\fs22 \expnd0\expndtw0\kerning0
-Scheduled contact times, contact information, and log of notes from previous discussions\
-\ls2\ilvl1
-\fs26\fsmilli13200 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
-\fs22 \expnd0\expndtw0\kerning0
-Search for how to find a mentor\
-\pard\tx720\tx1440\pardeftab720\partightenfactor0
-\cf2 \
-\pard\pardeftab720\partightenfactor0
-\cf2 Contacting my friends in college about the city idea to develop it \
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls3\ilvl1
-\fs26\fsmilli13200 \cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
-\fs22 \expnd0\expndtw0\kerning0
-Concept doc sent out to friends\
-\ls3\ilvl1
-\fs26\fsmilli13200 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
-\fs22 \expnd0\expndtw0\kerning0
-Outline Black City pitch with the STAR method\
-\pard\tx720\tx1440\pardeftab720\partightenfactor0
-\cf2 \
-\
-}
+Finding a mentor 
+	•	Scheduled contact times, contact information, and log of notes from previous discussions
+	•	Search for how to find a mentor
+
+Contacting my friends in college about the city idea to develop it 
+	•	Concept doc sent out to friends
+	•	Outline Black City pitch with the STAR method
+

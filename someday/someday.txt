@@ -1,54 +1,15 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid102\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid202\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
-{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid302\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid4}
-{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid402\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid5}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
-\margl1440\margr1440\vieww25400\viewh15520\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\qc\partightenfactor0
+											Someday
 
-\f0\fs22 \cf0 Someday\
-\
-\pard\pardeftab720\partightenfactor0
+Learn how to use the 3D printer
+	-	Software tutorial watched for the 3D printer in department
+	-	Search online for 3D printer tutorials
+Ask someone who has 3D printer knowledge to print for me 
+	-	Slack message sent to channel asking for 3D printer help
+	-	Post help Slack message in general channel
+Find the things I want to 3D print (grocery bag grabbers..etc)
+	•	Bookmark of link to 3D objects I want to print
+	•	Search for useful things to 3D print 
 
-\f1 \cf2 \expnd0\expndtw0\kerning0
-Learn how to use the 3D printer\
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	-	}\expnd0\expndtw0\kerning0
-Software tutorial watched for the 3D printer in department\
-\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	-	}\expnd0\expndtw0\kerning0
-Search online for 3D printer tutorials\
-\pard\pardeftab720\partightenfactor0
-\cf2 Ask someone who has 3D printer knowledge to print for me \
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls2\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	-	}\expnd0\expndtw0\kerning0
-Slack message sent to channel asking for 3D printer help\
-\ls2\ilvl1\kerning1\expnd0\expndtw0 {\listtext	-	}\expnd0\expndtw0\kerning0
-Post help Slack message in general channel\
-\pard\pardeftab720\partightenfactor0
-\cf2 Find the things I want to 3D print (grocery bag grabbers..etc)\
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls3\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
-Bookmark of link to 3D objects I want to print\
-\ls3\ilvl1\kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
-Search for useful things to 3D print \
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls4\ilvl1
-\f0 \cf0 \kerning1\expnd0\expndtw0 \
-\pard\pardeftab720\partightenfactor0
-
-\f1 \cf2 \expnd0\expndtw0\kerning0
-Take grad pics for my Mom \
-\pard\tx240\tx480\pardeftab720\li480\fi-480\partightenfactor0
-\ls5\ilvl1
-\fs26\fsmilli13200 \cf2 \kerning1\expnd0\expndtw0 {\listtext	-	}
-\fs22 \expnd0\expndtw0\kerning0
-Picture appointment set\
-\ls5\ilvl1
-\fs26\fsmilli13200 \kerning1\expnd0\expndtw0 {\listtext	-	}
-\fs22 \expnd0\expndtw0\kerning0
-Pick a date that I can be available for }
+Take grad pics for my Mom 
+	-	Picture appointment set
+	-	Pick a date that I can be available for 
