@@ -1,14 +1,28 @@
 											Project List
 
 2018
-	1)	Benign
-	⁃	Vision:
-
-	2)	Filtered News
-	⁃	Vision:
-
-	3)	I’m Not Regular
-	⁃	Vision:
+	1) Benign
+		Vision:
+	2) Filtered News
+		Vision:
+	3) I’m Not Regular
+		Vision:
+	4) Move to CA
+		Vision:
+	5) I’m Not Regular
+		Vision:
+	6) Apple Reimbursement
+		Vision:
+	7) Relationship Vision
+		Vision:
+	8) Book List
+		Vision:
+	9) Innovation Education
+		Vision:
+	10) Career Development
+		Vision:
+	11) Apple IdMS System Tracker:
+		Vision: 
 
 2019
 	1)	projectX
