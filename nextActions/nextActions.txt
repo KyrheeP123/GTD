@@ -1,20 +1,36 @@
 											Next Actions
 
+View Splunk & SysDiagnose data from a radar 
+	- Deep understanding of Splunk & SysDiagnose data from a Radar
+	- Ping PMN to send me some radars I can investigate through Splunk & SysDiagnose
+
 Reading ‘Getting Things Done’
 	•	GTD Methodology apart of daily routine
-	•	clone GTD GitHub at work Computer, Highlight info from GTD
+	•	Highlight info from GTD
+
+Benign
+	•	Product available by 9-19-19
+	•	Listen to Benign script and write down feedback 
+
+Find out if I can get a repair or replacement on my Sonos 
+	•	Call to Sonos customer service describing the condition of my Sonos and how we can go about fixing it
+	•	Have Mom send me the information needed which is in a screenshot on my Desktop
+
+Complete End of Year Vision
+	- High-Level goals set until December of 2018
+	- Brainstorm high-level goals to have done by 2018 then decide based on S.M.A.R.T principles. 
+
+Complete vision and next steps for all projects on the project list.
+	- Clear vision of success for each project
+	- Write vision for each project 
+
+Daneen Matts
+	- Understand her role and it’s impact on IS&T. What she thinks can be improved in IS&T, and how she became effective when first starting at Apple. 
+	- Add outcomes to Notes agenda folder
 
 Writing songs
 	•	Lyrics rapped/sung to a beat
 	•	Write the first verse of Faith
-
-Continuing my Capstone 
-	•	Project plan for the next 3 months set
-	•	Creating agenda for Julian meeting about User Research. Writing down feedback about the current Benign script recording. 
-
-Find out if I can get a repair or replacement on my Sonos 
-	•	Call to Sonos customer service describing the condition of my Sonos and how we can go about fixing it
-	•	Call 800-680-2345
 
 Schedule silence hour everyday! 
 	•	Hour a day with nothing but myself
@@ -28,27 +44,31 @@ Anelise Golden
 	- Understand difference between ML & DL, designing the right model(hidden layers and were to pass output to next hidden layer level), and choosing the right activation function. 
 	- Set meeting with Anelise 
 
-Daneen Matts
-	- Understand her role and it’s impact on IS&T. What she thinks can be improved in IS&T, and how she became effective when first starting at Apple. 
-	- Add outcomes to Notes agenda folder
-
-Complete End of Year Vision
-	- High-Level goals set until December of 2018
-	- Brainstorm high-level goals to have done by 2018 then decide based on S.M.A.R.T principles. 
-
 Write Journal ‘What Can We Do?’
 	- Journal posted on kireamor.com
 	- Get index cards and write out topics on each one to see what is missing
 
 Check on lower back pain, Ear Noise, and right inner hip grinding
 	- Appointment set, and day requested off
-	- Complete the benefits.apple.com
+	- Complete the benefits.apple.com by 10/20 12 PM
 
-Complete vision and next steps for all projects on the project list.
-	- Clear vision of success for each project
-	- Write vision for each project 
+Empty Mail Inbox
+	- Server Side Emails setup to catch recurring email groups 
+	- Search through inbox and create server side rules
 
+Execute use cases on device
+	- Repeat one use case multiple time and continue to break it down into smaller events, and services. Look at the data on Splunk and the device logs.
+	- Read Apple System Log
+		
+	- Created logs from iOS devices
 
+Get access to EVS from Guru
+	- Can view the EVS code
+	- Waiting on Siba to send ticket back to me
+
+Recommend Milaun for the job she applied to 
+	- Employee Referral submitted
+	- Get the link to Milaun’s job 
 
 
 
