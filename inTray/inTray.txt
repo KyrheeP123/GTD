@@ -1,20 +1,3 @@
 				In-Tray
 
-<<<<<<< HEAD
 More Jackets and shirts(Appearance Revamp)
-=======
-10/17/18: 
-Empty Mail Inbox
-	- Server Side Emails setup to catch recurring email groups 
-	- Search through inbox on bus and create server side rules
-
-Execute use cases on device
-	- Repeat one use case multiple time and continue to break it down into smaller events, and services. Look at the data on Splunk and the device logs.
-	- Finish reading Apple System Log document
-		
-	- Created logs from iOS devices
-Get access to EVS from Guru
-	- Can view the EVS code
-	- Waiting on Siba to send ticket back to me
-
->>>>>>> 0c9a3cd3de38486f0e824ff1a6a9de7ea36be30a
